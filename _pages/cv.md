@@ -1,5 +1,5 @@
 ---
-permalink: /cv/
+permalink: jferrherz.github.io/cv/
 title: "CV"
 author_profile: true
 redirect_from:
