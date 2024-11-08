@@ -21,7 +21,7 @@ repository               : "https://jferrherz.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile-photo.jpeg"
   name             : "Jacobo Ferrer"
   pronouns         : # example: "she/her"  
   bio              : "Climate change researcher. Economics Ph.D from The New School for Social Reserch"
