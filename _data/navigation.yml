@@ -12,7 +12,7 @@ main:
     url: /teaching/    
     
   - title: "CV"
-    url: https://jferrherz.github.io/cv/
+    url: /cv/
     
   - title: "Guide"
     url: /markdown/
