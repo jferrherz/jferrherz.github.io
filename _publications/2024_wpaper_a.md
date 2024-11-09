@@ -3,7 +3,7 @@ title: "Local drivers and global suppliers of GHG emissions from the city of Mad
 collection: publications
 category: working_papers
 permalink: /publications/2023_wpaper_a
-excerpt: 'his paper presents the most rigorous quantification of the 3-scope carbon footprint of the city of Madrid to date, which we extend to a full 2010-2021 series with a 28-industry and 47-country breakdown.'
+excerpt: 'This paper presents the most rigorous quantification of the 3-scope carbon footprint of the city of Madrid to date, which we extend to a full 2010-2021 series with a 28-industry and 47-country breakdown.'
 date: 2024-10-10
 venue: 'Working Paper'
 #slidesurl: 'http://academicpages.github.io/files/2022_slides_paper_a.pdf'
