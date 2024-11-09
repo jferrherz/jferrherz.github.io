@@ -16,7 +16,7 @@ Education
 * M.A. in International Economics and Development, Complutense University of Madrid, 2014
 * B.S. in Sociology, Complutense University of Madrid, 2012
 
-Work experience
+Experience
 ======
 * Researcher, Technical University of Madrid, September 2023 - Present
 * Ph.D. Trainee, European Central Bank, October 2022 - August 2023
@@ -33,7 +33,7 @@ Skills
   * LaTeX
   * MS Office
 * Languages
-  * English (full professional compentency)
+  * English (full professional competency)
   * French (reading competency)
   * Spanish (native speaker)
 
