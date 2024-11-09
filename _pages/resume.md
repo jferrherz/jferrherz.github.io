@@ -10,7 +10,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Civil Systems Engineering, Technical University of Madrid, 2025 (expected)
+* Ph.D Candidate in Civil Systems Engineering, Technical University of Madrid, 2025 (expected)
 * Ph.D in Economics, The New School for Social Research, 2024
 * M.Sc. in Economics, The New School for Social Research, 2020
 * M.A. in International Economics and Development, Complutense University of Madrid, 2014
