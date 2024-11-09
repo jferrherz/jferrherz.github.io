@@ -4,6 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2024_webinar_shaio
 date: 2024-10-10
+slidesurl: 'http://jferrherz.github.io/files/mrio_co2_madrid_slides_shaio.pdf'
 ---
 
 **Emilio Fontela research award** presentation of the paper *Local drivers and global suppliers of GHG emissions from the city of Madrid, 2013-2019*. Webinar of the Hispanic-American Input-Output Society (SHAIO).
