@@ -1,5 +1,4 @@
 ---
-layout: single
 permalink: /cv/
 title: "Curriculum Vitae"
 sitemap: false
