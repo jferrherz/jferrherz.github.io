@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publications/2023_paper_a
 excerpt: 'This paper critically examines the assumption of effective labor mobilization underlying Cockshott and Cottrell’s canonical labor-time calculation model of planning.'
-date: 2023-03-05
+date: 2023-02-04
 venue: 'Review of Evolutionary Political Economy'
 #slidesurl: 'http://academicpages.github.io/files/2022_slides_paper_a.pdf'
 paperurl: 'http://academicpages.github.io/files/2023_paper_a.pdf'
