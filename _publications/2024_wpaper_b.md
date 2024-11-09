@@ -5,7 +5,7 @@ category: working_papers
 permalink: /publications/2023_wpaper_b
 excerpt: 'This paper presents a reconstruction and evaluation of the theory of international relative prices (IRP) based on the theory of ‘real competition’.'
 date: 2024-03-05
-venue: 'Working Paper'
+venue: 'Centro Sraffa Working Papers'
 #slidesurl: 'http://jferrherz.github.io/files/2024_slides_paper_a.pdf'
 paperurl: 'http://jferrherz.github.io/files/2024_wpaper_b.pdf'
 citation: 'Ferrer, Jacobo; Martínez-González, Adrián; Torres-González, Luis Daniel (2024). &quot;On the Role of Profits-Wages Ratios in the Determination of the Long-Run Behavior of International Relative Prices&quot; <i>Centro Sraffa Working Papers</i>, n. 67.'
