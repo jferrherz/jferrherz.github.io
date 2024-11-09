@@ -6,4 +6,4 @@ author_profile: true
 redirect_from: 
   - /cv/
 ---
-<embed src="https://jferrherz.github.io/files/resume_jacobo_ferrer.pdf" type="application/pdf" width='130%' height='600px' />
+<embed src="https://jferrherz.github.io/files/resume_jacobo_ferrer.pdf" type="application/pdf" width='130%' height='800px' />
