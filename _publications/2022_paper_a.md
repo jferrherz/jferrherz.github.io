@@ -2,7 +2,7 @@
 title: "Some Recent Developments in The Explanation of The Empirical Relationship Between Prices and Distribution"
 collection: publications
 category: manuscripts
-permalink: /publication/2022_paper_a
+permalink: /publications/2022_paper_a
 excerpt: 'The paper complements recent contributions towards the explanation of the regularities in the behaviour of prices and capital intensities as an effect of hypothetical changes in the rate of profits in empirical production-price models.'
 date: 2022-03-05
 venue: 'ContributionstoPoliticalEconomy'
