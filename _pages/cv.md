@@ -33,7 +33,7 @@ Skills
   * LaTeX
   * MS Office
 * Languages
-  * English (full professional compentency)
+  * English (full professional competency)
   * French (reading competency)
   * Spanish (native speaker)
 
