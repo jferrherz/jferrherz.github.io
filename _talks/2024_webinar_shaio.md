@@ -3,7 +3,6 @@ title: "Webinar of the Hispanic-American Input-Output Society (SHAIO)"
 collection: talks
 type: "Talk"
 permalink: /talks/2024_webinar_shaio
-venue: "Online"
 date: 2024-10-10
 ---
 
