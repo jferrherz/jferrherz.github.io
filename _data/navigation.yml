@@ -23,8 +23,5 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Code"
-    url: /code/
-    
-  - title: "Data"
-    url: /database/
+  - title: "Code & Data"
+    url: /code_data/
