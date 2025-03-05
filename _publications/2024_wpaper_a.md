@@ -6,8 +6,8 @@ permalink: /publications/2023_wpaper_a
 excerpt: 'This paper presents the most rigorous quantification of the 3-scope carbon footprint of the city of Madrid to date, which we extend to a full 2010-2021 series with a 28-industry and 47-country breakdown.'
 date: 2024-10-10
 venue: 'Working Paper'
-#slidesurl: 'http://jferrherz.github.io/files/2022_slides_paper_a.pdf'
-paperurl: 'http://jferrherz.github.io/files/2024_wpaper_a.pdf'
+#slidesurl: 'http://jacobo-ferrer.github.io/files/2022_slides_paper_a.pdf'
+paperurl: 'http://jacobo-ferrer.github.io/files/2024_wpaper_a.pdf'
 citation: 'Ferrer, Jacobo; Alvarez, Sergio (2024). &quot;Local drivers and global suppliers of GHG emissions from the city of Madrid, 2010-2021&quot; <i>Working paper</i>, Universidad Politécnica de Madrid.'
 ---
 Co-authored with [Sergio Alvarez](https://portalcientifico.upm.es/es/ipublic/researcher/304164).
